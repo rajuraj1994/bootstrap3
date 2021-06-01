@@ -1,0 +1,29 @@
+.custom-nav{
+    background-color:#131921;
+}
+.custom-icon{
+    font-size: 30px;
+}
+.navbar{
+    background-color: #232f3e !important;
+}
+.custom-img{
+    overflow: hidden;
+}
+.custom-img:hover img{
+    transform: scale(1.5);
+    transition: all 3s;
+}
+footer{
+    background-color:#131921;
+}
+footer h5{
+    color:#ffff;
+}
+footer a{
+    color:#ffff !important;
+    text-decoration:none;
+}
+.custom-sidebar{
+    background-color: #f5f5f5;
+}
